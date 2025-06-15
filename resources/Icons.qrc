@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="/">
+		<file>img.png</file>
+		<file>CheckBoxOnDefault.png</file>
+		<file>CheckBoxOffDefault.png</file>
+		<file>CheckBoxOn.png</file>
+		<file>CheckBoxOff.png</file>
+	</qresource>
+</RCC>
